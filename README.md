@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pratik6725/pratik6725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Pratik Merchant
+[![Linkedin Badge](https://img.shields.io/badge/-Pratik%20Merchant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-merchant-408936145)](https://www.linkedin.com/in/pratik-merchant-408936145) 
+[![Gmail Badge](https://img.shields.io/badge/-pratik.merchant@somaiya.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratik.merchant@somaiya.edu)](mailto:pratik.merchant@somaiya.edu)
+---
+## Hi there 👋,           
+I'm Pratik Merchant, B.Tech Information Technology Senior at K J Somaiya College of Engineering, Vidyavihar, Mumbai. I am an ambitious technophile, keen to explore the world of ML, DL, AI and all other technologies that are shaping our lives.   
