@@ -8,7 +8,7 @@
 
 
 ---
-## Hi 👋, I'm Pratik Merchant,           
+## Hi 👋, I'm Pratik Merchant           
 Currently pursuing my final year of B.Tech Information Technology Senior from K.J. Somaiya College of Engineering, Vidyavihar, Mumbai. I am an ambitious student, aiming to utilize my technical skills and provide a professional service to companies by applying and honing my knowledge and working in a challenging and motivating work environment.   
 
 <h3 align="left">Languages and Tools:</h3>
