@@ -27,5 +27,5 @@ Currently pursuing my final year of B.Tech Information Technology Senior from K.
 <h3 align="left">GitHub Profile Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik6725&show_icons=true&locale=en&layout=compact" alt="pratik6725" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik6725&show_icons=true&locale=en" alt="pratik6725" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik6725&show_icons=true&locale=en&theme=tokyonight" alt="pratik6725" /></p>
 
